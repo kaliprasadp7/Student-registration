@@ -1,0 +1,21 @@
+h1.h1-title{
+    margin-left: 15% ;
+    margin-right: 15%;
+    margin-top: 30px;
+    color: blueviolet;
+    background-color:aqua;
+    display: none;
+}
+.frm{
+    border: 20%;
+    border-style: solid;
+    padding: 3%;
+    border-radius: 3%;
+    border-color: blueviolet;
+}
+h3.submitMsg{
+    margin-left: 30%;
+    margin-right: 20%;
+    color: green;
+    font-style: italic;
+}
